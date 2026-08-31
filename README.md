@@ -115,7 +115,7 @@ car-market-analysis/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/car-market-analysis.git
+git clone https://github.com/Mr-Authentic/car-market-analysis.git
 cd car-market-analysis
 
 # 2. Install dependencies
